@@ -1,1 +1,0 @@
-# Proiect PACHETE SOFTWARE
