@@ -12,7 +12,6 @@ df["study_group"] = pd.cut(
     labels=["0-2", "2-4", "4-6", "6-8", "8-10"],
 )
 
-
 print("\n--------CERINTA 1--------")
 
 # Calcularea mediei scorurilor la examene pentru fiecare grup
